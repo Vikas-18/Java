@@ -1,3 +1,5 @@
+package Exceptions;
+
 public class ExceptionsPractice {
 
     public static  int division(int a,int b)
