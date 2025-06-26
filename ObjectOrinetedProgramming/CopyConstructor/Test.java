@@ -16,8 +16,7 @@ public class Test {
             this.name = name;
             this.marks = marks;
         }
-
-
+        // passing a class into constructor
         Student(Student other)
         {
             this.marks = other.marks;
